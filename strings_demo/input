@@ -1,0 +1,12 @@
+Test
+***LVS***
+{"lv_name":"lv_audit", "vg_name":"vg01", "lv_attr":"-wi-ao----", "lv_size":"5154799616", "pool_lv":"", "origin":"", "data_percent":"", "metadata_percent":"", "move_pv":"", "mirror_log":"", "copy_percent":"", "convert_lv":""},
+                  {"lv_name":"lv_home", "vg_name":"vg01", "lv_attr":"-wi-ao----", "lv_size":"5154799616", "pool_lv":"", "origin":"", "data_percent":"", "metadata_percent":"", "move_pv":"", "mirror_log":"", "copy_percent":"", "convert_lv":""},
+                  {"lv_name":"lv_log", "vg_name":"vg01", "lv_attr":"-wi-ao----", "lv_size":"5154799616", "pool_lv":"", "origin":"", "data_percent":"", "metadata_percent":"", "move_pv":"", "mirror_log":"", "copy_percent":"", "convert_lv":""},
+                  {"lv_name":"lv_nuance", "vg_name":"vg01", "lv_attr":"-wi-ao----", "lv_size":"5154799616", "pool_lv":"", "origin":"", "data_percent":"", "metadata_percent":"", "move_pv":"", "mirror_log":"", "copy_percent":"", "convert_lv":""},
+                  {"lv_name":"lv_opt", "vg_name":"vg01", "lv_attr":"-wi-ao----", "lv_size":"5154799616", "pool_lv":"", "origin":"", "data_percent":"", "metadata_percent":"", "move_pv":"", "mirror_log":"", "copy_percent":"", "convert_lv":""},
+                  {"lv_name":"lv_root", "vg_name":"vg01", "lv_attr":"-wi-ao----", "lv_size":"2147483648", "pool_lv":"", "origin":"", "data_percent":"", "metadata_percent":"", "move_pv":"", "mirror_log":"", "copy_percent":"", "convert_lv":""},
+                  {"lv_name":"lv_tmp", "vg_name":"vg01", "lv_attr":"-wi-ao----", "lv_size":"5154799616", "pool_lv":"", "origin":"", "data_percent":"", "metadata_percent":"", "move_pv":"", "mirror_log":"", "copy_percent":"", "convert_lv":""},
+                  {"lv_name":"lv_usr", "vg_name":"vg01", "lv_attr":"-wi-ao----", "lv_size":"5154799616", "pool_lv":"", "origin":"", "data_percent":"", "metadata_percent":"", "move_pv":"", "mirror_log":"", "copy_percent":"", "convert_lv":""},
+                  {"lv_name":"lv_var", "vg_name":"vg01", "lv_attr":"-wi-ao----", "lv_size":"5154799616", "pool_lv":"", "origin":"", "data_percent":"", "metadata_percent":"", "move_pv":"", "mirror_log":"", "copy_percent":"", "convert_lv":""},
+                  {"lv_name":"lv_var_lib_mysql", "vg_name":"vg01", "lv_attr":"-wi-ao----", "lv_size":"5154799616", "pool_lv":"", "origin":"", "data_percent":"", "metadata_percent":"", "move_pv":"", "mirror_log":"", "copy_percent":"", "convert_lv":""}
